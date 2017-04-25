@@ -57,6 +57,7 @@ th, td {
     text-align: left;
     padding: 8px;
     width:auto;
+    font-size:large;
 }
 
 
@@ -64,4 +65,7 @@ th {
     background-color: #1565c0;
     background-blend-mode: darken;
     color: white;
+}
+p, li {
+    font-size:x-large;
 }
