@@ -3,6 +3,9 @@
     color:white;
 }
 
+h2 {
+    font-size:xx-large
+}
 #navbar {
     position: absolute;
     top: 0px;
@@ -47,6 +50,7 @@ body {
     position:absolute;
     top:50px;
     left:10px;
+    right:10px;
 }
 table {
     border-collapse: collapse;
